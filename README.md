@@ -5,10 +5,6 @@
 <h1>Starbucks Customer Data Analysis in R</h1>
 This project involves data cleaning, regression analysis, clustering, and predictive modeling using customer satisfaction and sales data from Starbucks. The goal is to analyze customer behavior, predict satisfaction levels, and identify key drivers of profitability.<br />
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: Data Cleaning and Regression in R](https://www.youtube.com/watch?v=wNsKf7wSqhQ)
-
 <h2>Environments and Technologies Used</h2>
 
 - R Programming
